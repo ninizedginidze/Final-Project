@@ -297,7 +297,7 @@ footer form button {
     color: #fff ;
 }
 .store h2,
-.mail h2 {
+.mail h1 {
     text-transform: capitalize;
     font-size:4rem;
     font-family:'montserrat-400';
